@@ -1,0 +1,26 @@
+p{color:black;}
+
+*{font-family: 'Ysabeau Infant', sans-serif;
+text-align: justify;
+background-color: mistyrose;}
+
+img{width: 600px;
+position: static;
+border-radius: 15%;}
+
+.text-center{text-align: center;}
+
+#titulo{
+    color:darkred;
+    font-family:'Belanosima', sans-serif;}
+
+body{
+    .subtitulos
+    {font-family: 'Belanosima', sans-serif;}
+    color: maroon;}
+  
+    #seccion-formulario{
+    input[type="text"];
+    border: 5px solid darkred;
+    padding: 30px;
+    margin: 50px 30px;}
